@@ -13,8 +13,7 @@ I'm Shokhrukh from Uzbekistan, and I do content on Design and Development. I rea
 - 💬 Ask me about anything 👑
 - ⚡ Fun fact: Nothing yet 😐
 
-    <br />
-    <hr />
+<hr />
 
 ### Connect with me:
 
@@ -26,6 +25,14 @@ I'm Shokhrukh from Uzbekistan, and I do content on Design and Development. I rea
 [<img align="left" alt="shqosimov | Instagram" width="64px" src="https://github.com/shqosimov/shqosimov/blob/main/plasticine/icons8-facebook-2048.png" />][facebook]
 [<img align="left" alt="shqosimov | Instagram" width="64px" src="https://github.com/shqosimov/shqosimov/blob/main/plasticine/icons8-instagram-2048.png" />][instagram]
 
+
+<br />
+<img align="left" alt="GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=shqosimov&theme=radical&show_icons=true&hide_border=true" />
+<br />
+
+
+
+
 [twitter]: https://twitter.com/shqosimov
 [telegram]: https://t.me/shqosimov
 [linkedin]: https://linkedin.com/in/shqosimov
@@ -33,7 +40,3 @@ I'm Shokhrukh from Uzbekistan, and I do content on Design and Development. I rea
 [website]: https://webhook.uz
 [facebook]: https://fb.me/mark5.inc
 [instagram]: https://instagram.com/mark5.inc
-
-<br />
-<img align="left" alt="GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=shqosimov&show_icons=true&hide_border=true&theme=ayu-mirage" />
-<br />
