@@ -15,10 +15,8 @@ I'm Shokhrukh from Uzbekistan, and I do content on Design and Development. I rea
 - 👯 I’m looking to collaborate with other web resourse creators
 - 🤔 I’m looking for help with UI/UX designing
 - 💬 Ask me about anything
-- 📫 How to reach me: shqosimov@webhook.uz
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-<br /><br />
+<br /><hr />
 ### Connect with me:
 
 [<img align="left" alt="shqosimov | Email"     width="64px" src="https://github.com/shqosimov/shqosimov/blob/main/my/icons8-mail-2048.png" />][email]
