@@ -27,7 +27,8 @@ I'm Shokhrukh from Uzbekistan, and I do content on Design and Development. I rea
 
 
 <br />
-<img align="left" alt="GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=shqosimov&theme=radical&show_icons=true&hide_border=true" />
+<br />
+<img alt="GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=shqosimov&theme=slateorange&show_icons=true&hide_border=true" />
 <br />
 
 
