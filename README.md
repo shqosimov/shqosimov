@@ -15,7 +15,7 @@ I'm Shokhrukh from Uzbekistan, and I do content on Design and Development. I rea
     <hr />
 
   ###:zap: GitHub Stats
-  <img align="left" alt="GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=shqosimov&show_icons=true&hide_border=true" />
+  <img align="left" alt="GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=shqosimov&show_icons=true&hide_border=true" style={display: inline-block;} />
   <br />
   <hr />
   <br />
