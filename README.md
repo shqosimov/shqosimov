@@ -35,7 +35,7 @@ I'm Shokhrukh from Uzbekistan, and I do content on Design and Development. I rea
 [email]: mailto:shqosimov@webhook.uz
 [website]: https://webhook.uz
 [facebook]: https://fb.me/mark5.inc
-[instagram]: https://instagram.com/mark_5.inc
+[instagram]: https://instagram.com/mark5.inc
 
 
 <br />
