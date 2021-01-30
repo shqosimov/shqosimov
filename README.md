@@ -18,15 +18,15 @@ I'm Shokhrukh from Uzbekistan, and I do content on Design and Development. I rea
 - 📫 How to reach me: shqosimov@webhook.uz
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
+<br /><br />
 ### Connect with me:
 
-[<img align="left" alt="shqosimov | Email"     width="64px" src="https://github.com/shqosimov/shqosimov/blob/main/plasticine/icons8-mail-2048.png" />][email]
-[<img align="left" alt="shqosimov | Website"   width="64px" src="https://github.com/shqosimov/shqosimov/blob/main/plasticine/icons8-chrome-2048.png" />][website]
-[<img align="left" alt="shqosimov | Twitter"   width="64px" src="https://github.com/shqosimov/shqosimov/blob/main/plasticine/icons8-twitter-2048.png" />][twitter]
-[<img align="left" alt="shqosimov | LinkedIn"  width="64px" src="https://github.com/shqosimov/shqosimov/blob/main/plasticine/icons8-linkedin-2048.png" />][linkedin]
-[<img align="left" alt="shqosimov | Telegram"  width="64px" src="https://github.com/shqosimov/shqosimov/blob/main/plasticine/icons8-telegram-app-2048.png" />][telegram]
-[<img align="left" alt="shqosimov | Instagram" width="64px" src="https://github.com/shqosimov/shqosimov/blob/main/plasticine/icons8-instagram-old-2048.png" />][instagram]
+[<img align="left" alt="shqosimov | Email"     width="64px" src="https://github.com/shqosimov/shqosimov/blob/main/my/icons8-mail-2048.png" />][email]
+[<img align="left" alt="shqosimov | Website"   width="64px" src="https://github.com/shqosimov/shqosimov/blob/main/my/icons8-link-100.png" />][website]
+[<img align="left" alt="shqosimov | Twitter"   width="64px" src="https://github.com/shqosimov/shqosimov/blob/main/my/icons8-twitter-2048.png" />][twitter]
+[<img align="left" alt="shqosimov | LinkedIn"  width="64px" src="https://github.com/shqosimov/shqosimov/blob/main/my/icons8-linkedin-2048.png" />][linkedin]
+[<img align="left" alt="shqosimov | Telegram"  width="64px" src="https://github.com/shqosimov/shqosimov/blob/main/my/icons8-telegram-app-2048.png" />][telegram]
+[<img align="left" alt="shqosimov | Instagram" width="64px" src="https://github.com/shqosimov/shqosimov/blob/main/my/icons8-instagram-old-2048.png" />][instagram]
 
 [email]: mailto:shqosimov@webhook.uz
 [website]: https://webhook.uz
