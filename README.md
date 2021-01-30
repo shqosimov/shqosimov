@@ -11,15 +11,15 @@ I'm Shokhrukh from Uzbekistan, and I do content on Design and Development. I rea
 - 💬 Ask me about anything 👑
 - ⚡ Fun fact: Nothing yet 😐
 
+    <br />
+    <hr />
+
+  ###:zap: GitHub Stats
+  <img align="left" alt="GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=shqosimov&show_icons=true&hide_border=true" />
   <br />
   <hr />
+  <br />
 
-  <summary>:zap: GitHub Stats</summary>
-  <img align="left" alt="GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=shqosimov&show_icons=true&hide_border=true" />
-
-<hr /><br />
-<br />
-<br />
 ### Connect with me:
 
 [<img align="left" alt="shqosimov | Twitter"   width="64px" src="https://github.com/shqosimov/shqosimov/blob/main/plasticine/icons8-twitter-2048.png" />][twitter]
