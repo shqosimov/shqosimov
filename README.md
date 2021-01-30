@@ -14,12 +14,10 @@ I'm Shokhrukh from Uzbekistan, and I do content on Design and Development. I rea
   <br />
   <hr />
 
-  <details>
   <summary>:zap: GitHub Stats</summary>
   <img align="left" alt="GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=shqosimov&show_icons=true&hide_border=true" />
-  </details>
 
-<hr />
+<hr /><br />
 
 ### Connect with me:
 
