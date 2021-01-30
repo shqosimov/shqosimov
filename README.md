@@ -28,7 +28,7 @@ I'm Shokhrukh from Uzbekistan, and I do content on Design and Development. I rea
 [<img align="left" alt="shqosimov | Telegram"  width="64px" src="https://github.com/shqosimov/shqosimov/blob/main/plasticine/icons8-telegram-app-2048.png" />][telegram]
 [<img align="left" alt="shqosimov | Instagram" width="64px" src="https://github.com/shqosimov/shqosimov/blob/main/plasticine/icons8-instagram-old-2048.png" />][instagram]
 
-[email]: shqosimov@webhook.uz
+[email]: mailto:shqosimov@webhook.uz
 [website]: https://webhook.uz
 [twitter]: https://twitter.com/shqosimov
 [instagram]: https://instagram.com/mark_5.inc
