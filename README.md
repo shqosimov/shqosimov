@@ -14,8 +14,6 @@ I'm Shokhrukh from Uzbekistan, and I do content on Design and Development. I rea
     <br />
     <hr />
 
-<br />
-
 ### Connect with me:
 
 [<img align="left" alt="shqosimov | Twitter"   width="64px" src="https://github.com/shqosimov/shqosimov/blob/main/plasticine/icons8-twitter-2048.png" />][twitter]
@@ -35,7 +33,8 @@ I'm Shokhrukh from Uzbekistan, and I do content on Design and Development. I rea
 [instagram]: https://instagram.com/mark5.inc
 
 <br />
-### :zap: GitHub Stats
+<hr />
 
+<br />
 <img align="left" alt="GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=shqosimov&show_icons=true&hide_border=true" />
 <br />
