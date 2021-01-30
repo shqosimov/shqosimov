@@ -5,7 +5,7 @@
 Here are some ideas to get you started:
 -->
 
-![Design and Development](https://github.com/adriantwarog/adriantwarog/blob/master/freeCodeCamp.jpg)
+![Dev](https://github.com/shqosimov/shqosimov/blob/main/fork.jpg)
 
 I'm Shokhrukh from Uzbekistan, and I do content on Design and Development. I really enjoy learning languages and frameworks like React and React Native, as well as work in WordPress. I also enjoy wireframing, ui, ux, and design in general. 
 
