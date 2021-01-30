@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 
 I'm Shokhrukh from Uzbekistan, and I do content on Design and Development. I really enjoy learning languages and frameworks like React and React Native, as well as work in WordPress. I also enjoy wireframing, ui, ux, and design in general. 
 
-### Hi there 👋
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 - 🔭 I’m currently working on my own project
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other web resourse creators
