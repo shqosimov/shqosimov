@@ -54,6 +54,77 @@ I'm Shokhrukh from Uzbekistan, and I do content on Design and Development. I rea
 </details>
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-257-blue)
+
+**🐱 My Github Data** 
+
+> 🏆 94 Contributions in the Year 2021
+ > 
+> 📦 22.5 kB Used in Github's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 4 Public Repositories 
+ > 
+> 🔑 21 Private Repositories  
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    5 commits      ████████░░░░░░░░░░░░░░░░░   33.33% 
+🌆 Daytime    6 commits      ██████████░░░░░░░░░░░░░░░   40.0% 
+🌃 Evening    3 commits      █████░░░░░░░░░░░░░░░░░░░░   20.0% 
+🌙 Night      1 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   6.67%
+
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday       1 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   6.67% 
+Tuesday      1 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   6.67% 
+Wednesday    1 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   6.67% 
+Thursday     7 commits      ███████████░░░░░░░░░░░░░░   46.67% 
+Friday       2 commits      ███░░░░░░░░░░░░░░░░░░░░░░   13.33% 
+Saturday     1 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   6.67% 
+Sunday       2 commits      ███░░░░░░░░░░░░░░░░░░░░░░   13.33%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Tashkent
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in Python** 
+
+```text
+Python                   14 repos            ███████████████░░░░░░░░░░   60.87% 
+JavaScript               8 repos             ████████░░░░░░░░░░░░░░░░░   34.78% 
+TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   4.35%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/shqosimov/shqosimov/main/charts/bar_graph.png) 
+
+
 <!--END_SECTION:waka-->
 
 [twitter]: https://twitter.com/shqosimov
