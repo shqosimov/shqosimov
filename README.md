@@ -26,6 +26,7 @@ I'm Shokhrukh from Uzbekistan, and I do content on Design and Development. I rea
 [<img align="left" alt="shqosimov | Instagram" width="64px" src="https://github.com/shqosimov/shqosimov/blob/main/plasticine/icons8-instagram-2048.png" />][instagram]
 
 <br />
+### 📈 My GitHub Stats
 <img alt="GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=shqosimov&theme=cobalt&show_icons=true&hide_border=true" />
 <br /><br />
 
