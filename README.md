@@ -45,6 +45,8 @@ I'm Shokhrukh from Uzbekistan, and I do content on Design and Development. I rea
     2. ❗️ Opened issue [#1](https://github.com/shqosimov/shqosimov/issues/1) in [shqosimov/shqosimov](https://github.com/shqosimov/shqosimov)
 <!--END_SECTION:activity-->
 </details>
+1. ❗️ Closed issue [#4](https://github.com/shqosimov/shqosimov/issues/1) in [shqosimov/shqosimov](https://github.com/shqуosimov/shqosimov)
+
 
 
 
