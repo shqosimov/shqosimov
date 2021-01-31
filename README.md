@@ -32,12 +32,12 @@ I'm Shokhrukh from Uzbekistan, and I do content on Design and Development. I rea
 <img alt="GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=shqosimov&theme=cobalt&show_icons=true&hide_border=true" />
 
 <p align="center">
-  <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100">
-  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100">
-  <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100">
-  <img src="https://i.giphy.com/media/VgGthkhUvGgOit7Y9i/200.webp" width="100">
-  <img width="100" src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" />
-  <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
+  <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp"       width="64" />
+  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="64" />
+  <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp"      width="64" />
+  <img src="https://i.giphy.com/media/VgGthkhUvGgOit7Y9i/200.webp"       width="64" />
+  <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif"  width="64" />
+  <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp"       width="64" />
 </p>
 
 <details>
