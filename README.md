@@ -25,12 +25,12 @@ I'm Shokhrukh from Uzbekistan, and I do content on Design and Development. I rea
 [<img align="left" alt="shqosimov | Instagram" width="64px" src="https://github.com/shqosimov/shqosimov/blob/main/plasticine/icons8-facebook-2048.png" />][facebook]
 [<img align="left" alt="shqosimov | Instagram" width="64px" src="https://github.com/shqosimov/shqosimov/blob/main/plasticine/icons8-instagram-2048.png" />][instagram]
 
-<br /><br /><br /><br />
+<br /><br /><br />
 
 ### 📈 My GitHub Stats
 
 <img alt="GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=shqosimov&theme=cobalt&show_icons=true&hide_border=true" />
-<br /><br />
+<br />
 
 <p align="center">
   <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100">
@@ -42,7 +42,7 @@ I'm Shokhrukh from Uzbekistan, and I do content on Design and Development. I rea
 </p>
 
 <details>
-  <summary>:zap: Recent GitHub Activity</summary>
+  <summary>⚡ Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
 1. ❌ Closed PR [#1](https://github.com/codeSTACKr/build-responsive-website/pull/1) in [codeSTACKr/build-responsive-website](https://github.com/codeSTACKr/build-responsive-website)
