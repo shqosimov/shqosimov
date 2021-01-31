@@ -25,8 +25,10 @@ I'm Shokhrukh from Uzbekistan, and I do content on Design and Development. I rea
 [<img align="left" alt="shqosimov | Instagram" width="64px" src="https://github.com/shqosimov/shqosimov/blob/main/plasticine/icons8-facebook-2048.png" />][facebook]
 [<img align="left" alt="shqosimov | Instagram" width="64px" src="https://github.com/shqosimov/shqosimov/blob/main/plasticine/icons8-instagram-2048.png" />][instagram]
 
-<br />
+<br /><br /><br /><br />
+
 ### 📈 My GitHub Stats
+
 <img alt="GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=shqosimov&theme=cobalt&show_icons=true&hide_border=true" />
 <br /><br />
 
@@ -41,15 +43,16 @@ I'm Shokhrukh from Uzbekistan, and I do content on Design and Development. I rea
 
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
-  <!--START_SECTION:activity-->
-    1. ❗️ Closed issue [#1](https://github.com/shqosimov/shqosimov/issues/1) in [shqosimov/shqosimov](https://github.com/shqosimov/shqosimov)
-    2. ❗️ Opened issue [#1](https://github.com/shqosimov/shqosimov/issues/1) in [shqosimov/shqosimov](https://github.com/shqosimov/shqosimov)
+  
+<!--START_SECTION:activity-->
+1. ❌ Closed PR [#1](https://github.com/codeSTACKr/build-responsive-website/pull/1) in [codeSTACKr/build-responsive-website](https://github.com/codeSTACKr/build-responsive-website)
+2. ❗️ Closed issue [#4](https://github.com/codeSTACKr/codestackr-vscode-theme/issues/4) in [codeSTACKr/codestackr-vscode-theme](https://github.com/codeSTACKr/codestackr-vscode-theme)
+3. 🗣 Commented on [#4](https://github.com/codeSTACKr/codestackr-vscode-theme/issues/4) in [codeSTACKr/codestackr-vscode-theme](https://github.com/codeSTACKr/codestackr-vscode-theme)
+4. 🎉 Merged PR [#7](https://github.com/codeSTACKr/codestackr-vscode-theme/pull/7) in [codeSTACKr/codestackr-vscode-theme](https://github.com/codeSTACKr/codestackr-vscode-theme)
+5. ❗️ Closed issue [#6](https://github.com/codeSTACKr/codestackr-vscode-theme/issues/6) in [codeSTACKr/codestackr-vscode-theme](https://github.com/codeSTACKr/codestackr-vscode-theme)
 <!--END_SECTION:activity-->
+
 </details>
-1. ❗️ Closed issue [#4](https://github.com/shqosimov/shqosimov/issues/1) in [shqosimov/shqosimov](https://github.com/shqуosimov/shqosimov)
-
-
-
 
 [twitter]: https://twitter.com/shqosimov
 [telegram]: https://t.me/shqosimov
