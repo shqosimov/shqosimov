@@ -53,6 +53,9 @@ I'm Shokhrukh from Uzbekistan, and I do content on Design and Development. I rea
 
 </details>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 [twitter]: https://twitter.com/shqosimov
 [telegram]: https://t.me/shqosimov
 [linkedin]: https://linkedin.com/in/shqosimov
