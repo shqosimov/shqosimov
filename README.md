@@ -25,9 +25,8 @@ I'm Shokhrukh from Uzbekistan, and I do content on Design and Development. I rea
 [<img align="left" alt="shqosimov | Instagram" width="64px" src="https://github.com/shqosimov/shqosimov/blob/main/plasticine/icons8-facebook-2048.png" />][facebook]
 [<img align="left" alt="shqosimov | Instagram" width="64px" src="https://github.com/shqosimov/shqosimov/blob/main/plasticine/icons8-instagram-2048.png" />][instagram]
 
-
 <br />
-<img alt="GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=shqosimov&theme=slateorange&show_icons=true&hide_border=true" />
+<img alt="GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=shqosimov&theme=react&show_icons=true&hide_border=true" />
 <br /><br />
 
 <p align="center">
@@ -39,7 +38,13 @@ I'm Shokhrukh from Uzbekistan, and I do content on Design and Development. I rea
   <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
 </p>
 
+<details>
+  <summary>:zap: Recent GitHub Activity</summary>
+  
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
+</details>
 
 [twitter]: https://twitter.com/shqosimov
 [telegram]: https://t.me/shqosimov
