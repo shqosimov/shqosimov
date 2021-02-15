@@ -54,11 +54,11 @@ I'm Shokhrukh from Uzbekistan, and I do content on Design and Development. I rea
 </details>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-103-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-81-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 96 Contributions in the Year 2021
+> 🏆 100 Contributions in the Year 2021
  > 
 > 📦 22.6 kB Used in Github's Storage 
  > 
@@ -66,7 +66,7 @@ I'm Shokhrukh from Uzbekistan, and I do content on Design and Development. I rea
  > 
 > 📜 4 Public Repositories 
  > 
-> 🔑 21 Private Repositories  
+> 🔑 23 Private Repositories  
  > 
 **I'm an Early 🐤** 
 
