@@ -54,7 +54,7 @@ I'm Shokhrukh from Uzbekistan, and I do content on Design and Development. I rea
 </details>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-49-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-48-blue)
 
 **🐱 My Github Data** 
 
@@ -97,8 +97,8 @@ Sunday       2 commits      ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Tashkent
 
 💬 Programming Languages: 
-JavaScript               11 mins             ██████████████████░░░░░░░   71.5% 
-JSON                     4 mins              ███████░░░░░░░░░░░░░░░░░░   28.5%
+JavaScript               11 mins             █████████████████░░░░░░░░   71.27% 
+JSON                     4 mins              ███████░░░░░░░░░░░░░░░░░░   28.73%
 
 🔥 Editors: 
 VS Code                  16 mins             █████████████████████████   100.0%
