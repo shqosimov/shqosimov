@@ -44,10 +44,10 @@ I'm Shokhrukh from Uzbekistan, and I do content on Design and Development. I rea
   <summary>⚡ Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#560](https://github.com/JessicaLim8/JessicaLim8/issues/560) in [JessicaLim8/JessicaLim8](https://github.com/JessicaLim8/JessicaLim8)
-2. ❗️ Closed issue [#1](https://github.com/shqosimov/shqosimov/issues/1) in [shqosimov/shqosimov](https://github.com/shqosimov/shqosimov)
-3. ❗️ Opened issue [#1](https://github.com/shqosimov/shqosimov/issues/1) in [shqosimov/shqosimov](https://github.com/shqosimov/shqosimov)
-4. 🎉 Merged PR [#7](https://github.com/codeSTACKr/codestackr-vscode-theme/pull/7) in [codeSTACKr/codestackr-vscode-theme](https://github.com/codeSTACKr/codestackr-vscode-theme)
+1. 🎉 Merged PR [#1](https://github.com/shqosimov/WeatherApp/pull/1) in [shqosimov/WeatherApp](https://github.com/shqosimov/WeatherApp)
+2. ❗️ Opened issue [#560](https://github.com/JessicaLim8/JessicaLim8/issues/560) in [JessicaLim8/JessicaLim8](https://github.com/JessicaLim8/JessicaLim8)
+3. ❗️ Closed issue [#1](https://github.com/shqosimov/shqosimov/issues/1) in [shqosimov/shqosimov](https://github.com/shqosimov/shqosimov)
+4. ❗️ Opened issue [#1](https://github.com/shqosimov/shqosimov/issues/1) in [shqosimov/shqosimov](https://github.com/shqosimov/shqosimov)
 5. ❗️ Closed issue [#6](https://github.com/codeSTACKr/codestackr-vscode-theme/issues/6) in [codeSTACKr/codestackr-vscode-theme](https://github.com/codeSTACKr/codestackr-vscode-theme)
 <!--END_SECTION:activity-->
 
