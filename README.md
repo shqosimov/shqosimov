@@ -54,11 +54,11 @@ I'm Shokhrukh from Uzbekistan, and I do content on Design and Development. I rea
 </details>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 110 Contributions in the Year 2021
+> 🏆 112 Contributions in the Year 2021
  > 
 > 📦 22.6 kB Used in Github's Storage 
  > 
