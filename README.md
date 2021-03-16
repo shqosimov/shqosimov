@@ -54,11 +54,11 @@ I'm Shokhrukh from Uzbekistan, and I do content on Design and Development. I rea
 </details>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 112 Contributions in the Year 2021
+> 🏆 117 Contributions in the Year 2021
  > 
 > 📦 22.6 kB Used in Github's Storage 
  > 
@@ -97,16 +97,13 @@ Sunday       2 commits      ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Tashkent
 
 💬 Programming Languages: 
-JavaScript               57 mins             ███████████████████████░░   93.64% 
-JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.48% 
-Git Config               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   2.6% 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.28%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr                █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr                █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
