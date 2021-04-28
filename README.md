@@ -40,15 +40,6 @@ I'm Shokhrukh from Uzbekistan, and I do content on Design and Development. I rea
   <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp"       width="64" />
 </p>
 
-<details>
-  <summary>⚡ Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
-
-</details>
-
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-16-blue)
 
