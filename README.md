@@ -45,7 +45,7 @@ I'm Shokhrukh from Uzbekistan, and I do content on Design and Development. I rea
 
 **🐱 My Github Data** 
 
-> 🏆 235 Contributions in the Year 2021
+> 🏆 304 Contributions in the Year 2021
  > 
 > 📦 59.1 kB Used in Github's Storage 
  > 
