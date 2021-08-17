@@ -84,18 +84,13 @@ Sunday       17 commits     █████░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Tashkent
 
 💬 Programming Languages: 
-JavaScript               4 hrs               █████████████████████░░░░   87.01% 
-Other                    34 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.41% 
-Objective-C              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.17% 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.17% 
-XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.15%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  4 hrs 36 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      4 hrs 2 mins        ██████████████████████░░░   87.6% 
-Linux                    34 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.4%
+No Activity Tracked This Week
 
 ```
 
@@ -116,7 +111,7 @@ CSS                      1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/shqosimov/shqosimov/main/charts/bar_graph.png) 
 
 
- Last Updated on 16/08/2021
+ Last Updated on 17/08/2021
 <!--END_SECTION:waka-->
 
 [twitter]: https://twitter.com/shqosimov
