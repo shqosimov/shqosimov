@@ -45,15 +45,15 @@ I'm Shokhrukh from Uzbekistan, and I do content on Design and Development. I rea
 
 **🐱 My Github Data** 
 
-> 🏆 567 Contributions in the Year 2021
+> 🏆 562 Contributions in the Year 2021
  > 
-> 📦 73.1 kB Used in Github's Storage 
+> 📦 70.5 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 13 Public Repositories 
  > 
-> 🔑 32 Private Repositories  
+> 🔑 31 Private Repositories  
  > 
 **I'm a Night 🦉** 
 
@@ -101,11 +101,10 @@ Mac                      16 mins             ███████████�
 **I Mostly Code in Python** 
 
 ```text
-Python                   15 repos            ███████████░░░░░░░░░░░░░░   46.88% 
-JavaScript               13 repos            ██████████░░░░░░░░░░░░░░░   40.62% 
-HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.25% 
-TypeScript               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.12% 
-CSS                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.12%
+Python                   15 repos            ████████████░░░░░░░░░░░░░   48.39% 
+JavaScript               13 repos            ██████████░░░░░░░░░░░░░░░   41.94% 
+HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.45% 
+TypeScript               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.23%
 
 ```
 
@@ -115,7 +114,7 @@ CSS                      1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/shqosimov/shqosimov/main/charts/bar_graph.png) 
 
 
- Last Updated on 18/08/2021
+ Last Updated on 19/08/2021
 <!--END_SECTION:waka-->
 
 [twitter]: https://twitter.com/shqosimov
