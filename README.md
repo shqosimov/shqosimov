@@ -45,7 +45,7 @@ I'm Shokhrukh from Uzbekistan, and I do content on Design and Development. I rea
 
 **🐱 My Github Data** 
 
-> 🏆 585 Contributions in the Year 2021
+> 🏆 587 Contributions in the Year 2021
  > 
 > 📦 70.5 kB Used in Github's Storage 
  > 
@@ -84,14 +84,15 @@ Sunday       17 commits     █████░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Tashkent
 
 💬 Programming Languages: 
-Other                    0 secs              ███████████████████░░░░░░   77.28% 
-XML                      0 secs              █████░░░░░░░░░░░░░░░░░░░░   22.72%
+JavaScript               3 hrs 31 mins       ███████████████████████░░   94.45% 
+XML                      12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.48% 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.06%
 
 🔥 Editors: 
-VS Code                  0 secs              █████████████████████████   100.0%
+VS Code                  3 hrs 44 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      0 secs              █████████████████████████   100.0%
+Mac                      3 hrs 44 mins       █████████████████████████   100.0%
 
 ```
 
@@ -111,7 +112,7 @@ TypeScript               1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/shqosimov/shqosimov/main/charts/bar_graph.png) 
 
 
- Last Updated on 13/09/2021
+ Last Updated on 15/09/2021
 <!--END_SECTION:waka-->
 
 [twitter]: https://twitter.com/shqosimov
