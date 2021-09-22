@@ -41,13 +41,13 @@ I'm Shokhrukh from Uzbekistan, and I do content on Design and Development. I rea
 </p>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-**🐱 My Github Data** 
+**🐱 My GitHub Data** 
 
-> 🏆 682 Contributions in the Year 2021
+> 🏆 683 Contributions in the Year 2021
  > 
-> 📦 70.5 kB Used in Github's Storage 
+> 📦 70.5 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -84,17 +84,17 @@ Sunday       17 commits     █████░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Tashkent
 
 💬 Programming Languages: 
-JavaScript               3 hrs 15 mins       █████████░░░░░░░░░░░░░░░░   36.44% 
-JSON                     1 hr 27 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.29% 
-TypeScript               1 hr 7 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.53% 
-Other                    58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.87% 
-Groovy                   28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.39%
+JavaScript               2 hrs 51 mins       ███████░░░░░░░░░░░░░░░░░░   30.35% 
+TypeScript               1 hr 52 mins        █████░░░░░░░░░░░░░░░░░░░░   19.98% 
+JSON                     1 hr 31 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.26% 
+Other                    58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.36% 
+Groovy                   28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.14%
 
 🔥 Editors: 
-VS Code                  8 hrs 57 mins       █████████████████████████   100.0%
+VS Code                  9 hrs 24 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      8 hrs 57 mins       █████████████████████████   100.0%
+Mac                      9 hrs 24 mins       █████████████████████████   100.0%
 
 ```
 
@@ -114,7 +114,7 @@ TypeScript               1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/shqosimov/shqosimov/main/charts/bar_graph.png) 
 
 
- Last Updated on 21/09/2021
+ Last Updated on 22/09/2021
 <!--END_SECTION:waka-->
 
 [twitter]: https://twitter.com/shqosimov
