@@ -41,11 +41,11 @@ I'm Shokhrukh from Uzbekistan, and I do content on Design and Development. I rea
 </p>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 691 Contributions in the Year 2021
+> 🏆 694 Contributions in the Year 2021
  > 
 > 📦 70.6 kB Used in GitHub's Storage 
  > 
@@ -84,17 +84,17 @@ Sunday       17 commits     █████░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Tashkent
 
 💬 Programming Languages: 
-JavaScript               10 hrs 28 mins      ████████████░░░░░░░░░░░░░   49.65% 
-TypeScript               7 hrs 48 mins       █████████░░░░░░░░░░░░░░░░   37.02% 
-JSON                     43 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.46% 
-JSX                      30 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.43% 
-Other                    30 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.42%
+JavaScript               11 hrs 39 mins      ███████████████░░░░░░░░░░   61.36% 
+TypeScript               2 hrs 58 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.67% 
+JSX                      1 hr 44 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   9.2% 
+JSON                     44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.91% 
+XML                      29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.59%
 
 🔥 Editors: 
-VS Code                  21 hrs 6 mins       █████████████████████████   100.0%
+VS Code                  19 hrs              █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      21 hrs 6 mins       █████████████████████████   100.0%
+Mac                      19 hrs              █████████████████████████   100.0%
 
 ```
 
@@ -114,7 +114,7 @@ TypeScript               1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/shqosimov/shqosimov/main/charts/bar_graph.png) 
 
 
- Last Updated on 21/10/2021
+ Last Updated on 23/10/2021
 <!--END_SECTION:waka-->
 
 [twitter]: https://twitter.com/shqosimov
