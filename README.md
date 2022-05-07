@@ -41,13 +41,15 @@ I'm Shokhrukh from Uzbekistan, and I do content on Design and Development. I rea
 </p>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 🏆 7 Contributions in the Year 2022
  > 
-> 📦 70.4 kB Used in GitHub's Storage 
+> 📦 70.5 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -84,17 +86,17 @@ Sunday       20 commits     ██████░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Tashkent
 
 💬 Programming Languages: 
-TypeScript               14 hrs 7 mins       ███████████████████████░░   92.16% 
-JavaScript               31 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.43% 
-PHP                      25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.74% 
-JSON                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.02% 
-Bash                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.58%
+TypeScript               6 hrs 25 mins       █████████████████████░░░░   85.34% 
+JavaScript               30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.86% 
+PHP                      25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.59% 
+JSON                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.06% 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.1%
 
 🔥 Editors: 
-VS Code                  15 hrs 19 mins      █████████████████████████   100.0%
+VS Code                  7 hrs 31 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      15 hrs 19 mins      █████████████████████████   100.0%
+Mac                      7 hrs 31 mins       █████████████████████████   100.0%
 
 ```
 
@@ -114,7 +116,7 @@ TypeScript               1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/shqosimov/shqosimov/main/charts/bar_graph.png) 
 
 
- Last Updated on 05/05/2022 18:47:46 UTC
+ Last Updated on 07/05/2022 18:45:58 UTC
 <!--END_SECTION:waka-->
 
 [twitter]: https://twitter.com/shqosimov
