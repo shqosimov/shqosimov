@@ -41,13 +41,13 @@ I'm Shokhrukh from Uzbekistan, and I do content on Design and Development. I rea
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 7 Contributions in the Year 2022
+> 🏆 9 Contributions in the Year 2022
  > 
 > 📦 70.5 kB Used in GitHub's Storage 
  > 
@@ -86,16 +86,14 @@ Sunday       20 commits     ██████░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Tashkent
 
 💬 Programming Languages: 
-TypeScript               6 hrs 48 mins       █████████████████████████   99.69% 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.24% 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.04% 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.03%
+TypeScript               4 hrs 19 mins       █████████████████████████   99.98% 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.02%
 
 🔥 Editors: 
-VS Code                  6 hrs 49 mins       █████████████████████████   100.0%
+VS Code                  4 hrs 19 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      6 hrs 49 mins       █████████████████████████   100.0%
+Mac                      4 hrs 19 mins       █████████████████████████   100.0%
 
 ```
 
@@ -115,7 +113,7 @@ TypeScript               1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/shqosimov/shqosimov/main/charts/bar_graph.png) 
 
 
- Last Updated on 10/05/2022 18:49:31 UTC
+ Last Updated on 12/05/2022 18:51:11 UTC
 <!--END_SECTION:waka-->
 
 [twitter]: https://twitter.com/shqosimov
