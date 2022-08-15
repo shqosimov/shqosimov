@@ -41,7 +41,7 @@ I'm Shokhrukh from Uzbekistan, and I do content on Design and Development. I rea
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-963%20hrs%2057%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-968%20hrs%2042%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -86,10 +86,10 @@ Sunday       3 commits      ████████████░░░░░�
 ⌚︎ Time Zone: Asia/Tashkent
 
 💬 Programming Languages: 
-TypeScript               16 hrs 45 mins      ███████████████████░░░░░░   76.86% 
+TypeScript               16 hrs 45 mins      ███████████████████░░░░░░   76.87% 
 Bash                     1 hr 22 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.32% 
 JSON                     1 hr 16 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   5.81% 
-Other                    1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   5.45% 
+Other                    1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   5.43% 
 JavaScript               1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   4.73%
 
 🔥 Editors: 
@@ -116,7 +116,7 @@ TypeScript               1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/shqosimov/shqosimov/main/charts/bar_graph.png) 
 
 
- Last Updated on 14/08/2022 18:46:04 UTC
+ Last Updated on 15/08/2022 18:50:28 UTC
 <!--END_SECTION:waka-->
 
 [twitter]: https://twitter.com/shqosimov
