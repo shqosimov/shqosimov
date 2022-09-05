@@ -41,7 +41,7 @@ I'm Shokhrukh from Uzbekistan, and I do content on Design and Development. I rea
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C057%20hrs%2048%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -57,6 +57,49 @@ I'm Shokhrukh from Uzbekistan, and I do content on Design and Development. I rea
  > 
 > 🔑 33 Private Repositories  
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    1 commits      ████░░░░░░░░░░░░░░░░░░░░░   16.67% 
+🌆 Daytime    2 commits      ████████░░░░░░░░░░░░░░░░░   33.33% 
+🌃 Evening    2 commits      ████████░░░░░░░░░░░░░░░░░   33.33% 
+🌙 Night      1 commits      ████░░░░░░░░░░░░░░░░░░░░░   16.67%
+
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday       0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
+Tuesday      2 commits      ████████░░░░░░░░░░░░░░░░░   33.33% 
+Wednesday    0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
+Thursday     1 commits      ████░░░░░░░░░░░░░░░░░░░░░   16.67% 
+Friday       0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
+Saturday     0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
+Sunday       3 commits      ████████████░░░░░░░░░░░░░   50.0%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Tashkent
+
+💬 Programming Languages: 
+TypeScript               27 hrs 6 mins       ███████████████████████░░   95.08% 
+Go                       42 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.46% 
+Other                    30 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.79% 
+Bash                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.27% 
+JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.23%
+
+🔥 Editors: 
+VS Code                  28 hrs 30 mins      █████████████████████████   100.0%
+
+💻 Operating System: 
+Mac                      28 hrs 30 mins      █████████████████████████   100.0%
+
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -73,7 +116,7 @@ TypeScript               1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/shqosimov/shqosimov/main/charts/bar_graph.png) 
 
 
- Last Updated on 04/09/2022 18:47:40 UTC
+ Last Updated on 05/09/2022 18:50:37 UTC
 <!--END_SECTION:waka-->
 
 [twitter]: https://twitter.com/shqosimov
