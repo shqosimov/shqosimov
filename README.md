@@ -41,13 +41,13 @@ I'm Shokhrukh from Uzbekistan, and I do content on Design and Development. I rea
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C190%20hrs%2038%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C194%20hrs%2017%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 12 Contributions in the Year 2022
+> 🏆 0 Contributions in the Year 2022
  > 
 > 📦 70.5 kB Used in GitHub's Storage 
  > 
@@ -86,18 +86,18 @@ Sunday       3 commits      ████████████░░░░░�
 ⌚︎ Time Zone: Asia/Tashkent
 
 💬 Programming Languages: 
-TypeScript               18 hrs 35 mins      ██████████████████░░░░░░░   74.08% 
-JSON                     2 hrs 30 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   10.0% 
-Other                    1 hr 26 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   5.77% 
-Python                   59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.92% 
-JavaScript               51 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.44%
+TypeScript               20 hrs 33 mins      ██████████████████░░░░░░░   72.2% 
+Other                    2 hrs 20 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   8.24% 
+JSON                     2 hrs 19 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   8.19% 
+JavaScript               1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   3.93% 
+Python                   59 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.46%
 
 🔥 Editors: 
-VS Code                  25 hrs 6 mins       █████████████████████████   100.0%
+VS Code                  28 hrs 28 mins      █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      21 hrs 9 mins       █████████████████████░░░░   84.31% 
-Linux                    3 hrs 56 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.69%
+Mac                      21 hrs 41 mins      ███████████████████░░░░░░   76.16% 
+Linux                    6 hrs 47 mins       ██████░░░░░░░░░░░░░░░░░░░   23.84%
 
 ```
 
@@ -117,7 +117,7 @@ TypeScript               1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/shqosimov/shqosimov/main/charts/bar_graph.png) 
 
 
- Last Updated on 15/10/2022 18:53:29 UTC
+ Last Updated on 16/10/2022 18:54:01 UTC
 <!--END_SECTION:waka-->
 
 [twitter]: https://twitter.com/shqosimov
