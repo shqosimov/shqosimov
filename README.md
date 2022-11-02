@@ -41,7 +41,7 @@ I'm Shokhrukh from Uzbekistan, and I do content on Design and Development. I rea
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C248%20hrs%2022%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C254%20hrs%209%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -49,7 +49,7 @@ I'm Shokhrukh from Uzbekistan, and I do content on Design and Development. I rea
 
 > 🏆 12 Contributions in the Year 2022
  > 
-> 📦 70.6 kB Used in GitHub's Storage 
+> 📦 70.5 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -86,18 +86,18 @@ Sunday       3 commits      ████████████░░░░░�
 ⌚︎ Time Zone: Asia/Tashkent
 
 💬 Programming Languages: 
-TypeScript               25 hrs 53 mins      ██████████████████████░░░   88.62% 
-Other                    1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   3.78% 
-JSON                     49 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.81% 
-Bash                     44 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.54% 
-Text                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.59%
+TypeScript               22 hrs 48 mins      ██████████████████████░░░   88.24% 
+Other                    1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   4.24% 
+Bash                     45 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.91% 
+JSON                     40 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.61% 
+JavaScript               11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.76%
 
 🔥 Editors: 
-VS Code                  29 hrs 13 mins      █████████████████████████   100.0%
+VS Code                  25 hrs 50 mins      █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      28 hrs 30 mins      ████████████████████████░   97.57% 
-Linux                    42 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.43%
+Mac                      25 hrs 7 mins       ████████████████████████░   97.26% 
+Linux                    42 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.74%
 
 ```
 
@@ -117,7 +117,7 @@ TypeScript               1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/shqosimov/shqosimov/main/charts/bar_graph.png) 
 
 
- Last Updated on 01/11/2022 18:53:06 UTC
+ Last Updated on 02/11/2022 18:50:25 UTC
 <!--END_SECTION:waka-->
 
 [twitter]: https://twitter.com/shqosimov
